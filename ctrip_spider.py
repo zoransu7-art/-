@@ -2,10 +2,6 @@
 总程序
 负责运行整个携程爬虫流程
 '''
-'''
-总程序
-负责运行整个携程爬虫流程
-'''
 import os
 import sys
 import glob
